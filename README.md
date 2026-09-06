@@ -4,6 +4,10 @@ Personal Orlando itinerary for September 9–13, 2026. Chinese-language planning
 
 ## Open the project
 
+Live site: https://tianqi-zhou.github.io/orlando-trip-planner/
+
+GitHub Pages serves the `gh-pages` branch, containing the contents of `outputs/`. Changes on `main` must be copied to that publishing branch to update the live site.
+
 Open `outputs/orlando-park-guide.html` in a browser. No build or installation is required. Keep the `outputs/assets` folder alongside the HTML files.
 
 - **Trip planner:** `outputs/orlando-park-guide.html` — attractions, priorities, editable day/time assignments, calendar, dining, weather, tickets, park hours, and sources.
