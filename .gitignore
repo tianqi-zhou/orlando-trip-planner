@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+work/official-maps/*.jpg
+work/official-maps/*.html
+# Failed downloads are HTML error pages, not source maps.
+work/official-maps/usf*.pdf
+work/official-maps/resort.pdf
